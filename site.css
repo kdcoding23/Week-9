@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+#index-bg {
+    background-color: rgb(201, 248, 201);
+}
+
+#autumn-bg {
+    background-color: rgb(253, 213, 140);
+}
+
+#winter-bg {
+    background-color: rgb(184, 215, 235);
+}
